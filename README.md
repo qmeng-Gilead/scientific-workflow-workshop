@@ -2,6 +2,8 @@ Contact: Thomas Johnson thjohnson@microsoft.com
 
 ** this is to test the edit option **
 
+**test 2 **
+
 # Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
